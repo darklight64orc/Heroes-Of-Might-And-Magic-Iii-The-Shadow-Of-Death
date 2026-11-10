@@ -205,4 +205,4 @@ This repository serves as the official landing page for Heroes of Might and Magi
 **Get the most recent version of Heroes of Might and Magic III: The Shadow of Death today!**
 
 ---
-**Last updated:** 2026-11-10 09:13:11 UTC
+**Last updated:** 2026-11-10 17:28:18 UTC
